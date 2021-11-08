@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=hstarorg&theme=dracula&show_icons=true&include_all_commits=true" />
+      <a href="https://github.com/hstarorg" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=hstarorg&theme=dracula&show_icons=true&include_all_commits=true" /></a>
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hstarorg&layout=compact&theme=dracula" />
+      <a href="https://github.com/hstarorg" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hstarorg&layout=compact&theme=dracula" /></a>
     </td>
   </tr>
 </table>
