@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=hstarorg&theme=dracula&show_icons=true)](https://github.com/hstarorg/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hstarorg&layout=compact&theme=dracula)](https://github.com/hstarorg/github-readme-stats)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=hstarorg&theme=dracula&show_icons=true&include_all_commits=true" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hstarorg&layout=compact&theme=dracula" />
+    </td>
+  </tr>
+</table>
+
+
